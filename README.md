@@ -18,7 +18,7 @@ We want to help you live a fit and healthy lifestyle! For this we created BeFit.
 git clone https://github.com/Chinmay908/BeFit.git
 
 ## Website
-Click [here](https://chinmay908.github.io/BeFit/)  to view.
+Click [here](https://chinmay908.github.io/BeFit/) to view.
 
 ## Authors
 * Chinmay Palav
